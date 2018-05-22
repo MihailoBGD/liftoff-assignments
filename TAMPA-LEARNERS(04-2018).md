@@ -22,7 +22,7 @@
 - [Mueller, Giulia @GiuliaMueller](https://github.com/GiuliaMueller/liftoff-assignments)
 - [PATEL, RAJESH]()
 - [Riggle, Terri]()
-- [Stoykovich, Mihailo] @MihailoBGD(https://github.com/MihailoBGD/liftoff-assignments)
+- [Stoykovich, Mihailo @MihailoBGD](https://github.com/MihailoBGD/liftoff-assignments)
 
 ### Brian's Group
 - [Austin, Sharon @austin-2018](https://github.com/austin-2018/liftoff-assignments.git)
