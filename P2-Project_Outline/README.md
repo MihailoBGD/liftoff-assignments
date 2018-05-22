@@ -7,11 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My app will be a website that allows people to learn about a new grappling sport called SpeedGreco (that I invented). Users will be able to register and depending on their user level, will be able to access information on the rules, moves and competing in the new sport. 
 ### Features
-Include Features here
+User login
+Email confirmation
+User level assignment
+Form submission for comments, sugggestions, techniques, videos and other contributions.
+Database search
+
 ### Technologies
-Include Technologies here
+Python
+Flask
+MySQL
+SQLAlchemy
+JavaScript
+React
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Besides learning to put together my own project from scratch I will learn how to host my project on its domain name that I secured, and I hope to get better at using various frameworks, tools and templates.
